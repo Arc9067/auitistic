@@ -360,9 +360,13 @@ li {
   width: 100%;
   position: relative;
   margin-top: -6.5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .dashboard img {
-  width: 100%;
+  width: 60rem;
+  border-radius: 20px;
 }
 /* --------------play---------
 ------------ */
