@@ -117,7 +117,7 @@ li {
 }
 
 .btn:hover {
-  color: #000000;
+  color: #fff;
   border: 3px solid #000;
   background: #ffffff;
   transform: translateY(-0.4vw);
@@ -301,6 +301,7 @@ li {
 }
 .hero-section .btn-group a.buy-now:hover {
   background: transparent;
+  color: white;
 }
 .hero-section .btn-group a.chart {
   border: 1px solid #ffffff;
