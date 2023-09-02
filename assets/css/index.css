@@ -16,7 +16,7 @@ html {
   font-weight: 400;
 }
 body {
-  background: #5a9334;
+  background: #1d1616;
 }
 p {
   color: #fff;
@@ -105,7 +105,7 @@ li {
 .btn {
   border-radius: 7px;
   border: 3px solid #99b1f7;
-  background: #feed01;
+  background: #20232b;
   padding: 1vw 2vw;
   font-family: norm-black;
   font-size: 15px;
@@ -260,10 +260,10 @@ li {
 .hero-section .bg-heading {
   background: repeating-linear-gradient(
     105deg,
-    #f7d24e,
-    #fac60a 60px,
-    #f7d24e 60px,
-    #f7d24e 120px
+    #1d1616,
+    #2e3338 60px,
+    #32313b 60px,
+    #20232b 120px
   );
   filter: blur(0.1px);
   transform: rotate(-1.811deg);
@@ -294,8 +294,8 @@ li {
   line-height: normal;
 }
 .hero-section .btn-group a.buy-now {
-  background: #f7d24e;
-  border: 1px solid #f7d24e;
+  background: #f5f0ea;
+  border: 1px solid #1d1616;
   color: black;
   transition: 0.4s;
 }
@@ -380,7 +380,7 @@ li {
 .play-wrap {
   margin-top: 4vw;
   border-radius: 39px;
-  background: #5ea82d;
+  background: #1a0d0d;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -406,17 +406,17 @@ li {
 }
 .play-wrap .security {
   border: none;
-  border-top: 2px solid #f7d24e;
-  border-right: 2px solid #fac60a;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
 }
 .play-wrap .payment {
   border: none;
-  border-top: 2px solid #f7d24e;
-  border-right: 2px solid #fac60a;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
 }
 .play-wrap .market {
   border: none;
-  border-top: 2px solid #f7d24e;
+  border-top: 2px solid #fff;
 }
 .play-wrap .box2 h4 {
   font-family: agency;
@@ -456,7 +456,7 @@ li {
   margin-top: 1vw;
 }
 .tokenomics h6 span {
-  color: #f7d24e;
+  color: #fff;
   font-weight: 900;
   font-family: agency;
 }
@@ -478,7 +478,7 @@ li {
 }
 .token-wrap .box h3 {
   font-size: 3.3vw;
-  color: #fac60a;
+  color: #fff;
   text-align: left;
 }
 .token-wrap .box p {
@@ -980,10 +980,10 @@ footer .logo a img {
   .hero-section .bg-heading {
     background: repeating-linear-gradient(
       105deg,
-      #f7d24e,
-      #fac60a 60px,
-      #f7d24e 60px,
-      #f7d24e 120px
+      #1d1616,
+      #2e3338 60px,
+      #32313b 60px,
+      #20232b 120px
     );
     transform: rotate(-1.811deg);
     padding: 0 1vw;
@@ -1121,7 +1121,7 @@ footer .logo a img {
   }
   .play-wrap .security {
     border: none;
-    border-top: 8px solid #fac60a;
+    border-top: 8px solid #fff;
   }
   .play-wrap .payment {
     border: none;
