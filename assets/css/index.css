@@ -1418,3 +1418,23 @@ footer .logo a img {
     transform: rotateY(0deg);
   }
 }
+
+button.secondBuy {
+  background: #f5f0ea;
+  border: 1px solid #1d1616;
+  color: black;
+  transition: 0.4s;
+  border-radius: 32px;
+  padding: 1.2vw 2.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+  font-family: Questrial;
+  font-size: 1.2vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: max-content;
+  margin-inline: auto;
+}
